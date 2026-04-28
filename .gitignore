@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Debug outputs
+debug_*.jpg
+debug_*.png
+
+# Optional: 데모/디버그 스크립트는 제외하고 싶을 때 주석 해제
+# main_debug.py
